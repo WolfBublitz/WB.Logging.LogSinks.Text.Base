@@ -1,0 +1,1 @@
+# WB.Logging.LogSinks.Text.Base
